@@ -1,0 +1,27 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "English as a Second Language"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "8bb6943b-bbda-b124-2047-d05ff1f85afc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Listening, Speaking, and Pronunciation",
+  "course_description": "This course is designed for high-intermediate ESL students who need to develop better listening comprehension and oral skills, which will primarily be achieved by detailed instructions on pronunciation.\u00a0Our focus will be on (1) producing accurate and intelligible English, (2) becoming more comfortable listening to rapidly spoken English, and (3) learning common expressions, gambits, and idioms used in both formal and informal contexts.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.224",
+  "primary_course_number": "21G.223",
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "title": "Course Metadata"
+}

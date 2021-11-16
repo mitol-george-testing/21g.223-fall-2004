@@ -1,0 +1,8 @@
+---
+content_type: page
+is_media_gallery: true
+title: Video Lectures
+uid: 9d85d994-5a82-f659-c49f-29552eed3130
+---
+
+During the fall of 2004, four sessions of 21G.224 were recorded especially for OpenCourseWare. In these sessions, Professor Yoo works with students on some of the exercises covered in the [handouts]({{< baseurl >}}/pages/study-materials). The videos capture typical dynamics of the classroom, including the professor's lectures, students working together in small groups, and students participating in a classroom debate. Below are links to the videos.{{< video-gallery-item href="/resources/lecture-18" section="Video Lectures" title="Lecture 18: Word Stress (cont.); Stress in Compounds" description="" thumbnail="https://img.youtube.com/vi/zvu9SoCyDec/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-19" section="Video Lectures" title="Lecture 19: Stress in Compounds (cont.); Sentence Stress and Rhythm" description="" thumbnail="https://img.youtube.com/vi/uiUZ_KkZr8U/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-20" section="Video Lectures" title="Lecture 20: Rhythm (cont.); Prominence" description="" thumbnail="https://img.youtube.com/vi/VRMakiEeVJM/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-21" section="Video Lectures" title="Lecture 21: Prominence (cont.); Student Debate" description="" thumbnail="https://img.youtube.com/vi/K7jYPfOSmqk/default.jpg" >}}
